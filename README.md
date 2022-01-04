@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charukeerthi
 - 👀 I’m interested in Machine Learning and Data Science in Python
-- 🌱 I’m currently learning ML and AI from Microsoft
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working on automation Machine learning project on 'Crop recommendation system'
+- 💞️ I’m looking to collaborate on Flask, Selenium and Flask projects
 - 📫 How to reach me - charukeerthi.nb@gmail.com
 
 <!---
